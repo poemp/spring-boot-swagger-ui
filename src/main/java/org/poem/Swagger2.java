@@ -30,7 +30,7 @@ public class Swagger2 {
                 .title("Spring Boot中使用Swagger2构建RESTful APIs")
                 .description("我自己试试")
                 .termsOfServiceUrl("http://blog.didispace.com/")
-                .contact("程序猿DD")
+                .contact("路延文")
                 .version("1.0")
                 .build();
     }
